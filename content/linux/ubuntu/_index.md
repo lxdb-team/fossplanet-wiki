@@ -1,72 +1,14 @@
 ---
-title: "Ubuntu"
-date: 2018-12-29T11:02:05+06:00
-lastmod: 2020-01-05T10:42:26+06:00
+title: "Ubuntu Linux"
+date: 2021-03-08T15:00:00
+lastmod: 2021-03-08T15:00:00
 weight: 2
-draft: false
+draft: true
 icon: "fab fa-ubuntu"
 # search related keywords
-keywords: ["money","payment"]
+keywords: ["ubuntu", "linux", "einführung"]
 ---
-
-Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam, ac posuere leo dapibus id. Cras fringilla convallis elit, at eleifend mi interam.
-
-{{< notice note >}}
-  This is a simple note.
-{{</ notice >}}
-
-{{< notice tip >}}
-  This is a simple tip.
-{{</ notice >}}
-
-{{< notice info >}}
-  This is a simple info.
-{{</ notice >}}
-
-
-{{< tabs >}}
-  {{< tab "first" >}}
-   This is first tab
-  {{</ tab >}}
-
-  {{< tab "second" >}}
-  this is second tab
-  {{</ tab >}}
-
-  {{< tab "third" >}}
-  this is third tab
-  {{</ tab >}}
-{{</ tabs >}}
-
-Nulla non sollicitudin. Morbi sit amet laoreet ipsum, vel pretium mi. Morbi varius, tellus in accumsan blandit, elit ligula eleifend velit, luctus mattis ante nulla condimentum nulla. Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit.
-
-### Image Example
-
-Nunc porta malesuada porta. Etiam tristique vestibulum dolor at ultricies. Proin hendrerit sapien sed erat fermentum, at commodo velit consectetur.
-
-![image example](img-1.jpg "image")
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
-
-### Example Of Code Block
-
-In accumsan lacus ac neque maximus dictum. Phasellus eleifend leo id mattis bibendum. Curabitur et purus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-
-```html
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/assets/css/main.css">
-  <link rel="shortcut icon" type="image/png" href="/assets/img/favicon.png" >
-  <script src="/assets/js/main.js"></script>
-</head>
-```
-
-### Text and Quote
-
-Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna turpis.
-
-> Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet
-
-Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.Etiam vestibulum risus vel arcu elementum eleifend. Cras at dolor eget urna varius faucibus tempus in elit. Cras a dui imperdiet, tempus metus quis, pharetra turpis. Phasellus at massa sit amet ante semper fermentum sed eget lectus. Quisque id dictum magna, et dapibus turpis.
+![Das Logo von Ubuntu](Ubuntu-logo.png)
+Ubuntu Linux ist eine, von Canonical entwickelte, einsteigerfreundliche Linux-Distribution, die schon lange eine Grundlage für viele andere Distributionen ist. Wie der Name schon sagt, wird auf Benutzerfreundlichkeit geachtet, was den Einstieg in die Linux-Welt erheblich erleichtern kann.
+Ubuntu basiert auf Debian, die Pakete werden bei Ubuntu aber bei jeder neuen Version stets aktuell gehalten, stabil ist das System trotzdem.
+Der Paketmanager bei Ubuntu ist **APT", hiermit hast du die Möglichkeit verschiedenste Pakete zu installieren, aktualisieren, deinstallieren und vieles mehr.
